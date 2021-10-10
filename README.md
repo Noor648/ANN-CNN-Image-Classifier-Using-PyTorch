@@ -1,1 +1,2 @@
-# ANN-Image-Classifier-Using PyTorch
+Image Classifiers
+ANN and CNN
